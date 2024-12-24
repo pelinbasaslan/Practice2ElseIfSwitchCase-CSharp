@@ -62,4 +62,6 @@ TestResults/
 *.tmp
 *.swp
 
+.gitignore.save
+
 # Lütfen proje dosyasına özel dosyalarınızı manuel olarak ekleyin (örneğin, config dosyaları vb.)
