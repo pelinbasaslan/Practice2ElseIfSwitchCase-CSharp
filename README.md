@@ -31,6 +31,8 @@ This simple console application simulates a grocery store system where the user 
 
 Here is a C# implementation of the described problem using both `If/Else` and `Switch-Case` control structures:
 
+```csharp
+
 using System;
 
 class Program
