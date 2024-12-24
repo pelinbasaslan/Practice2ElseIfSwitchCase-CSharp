@@ -1,5 +1,5 @@
 
-Grocery Store Application with If/Else and Switch-Case in C
+# Grocery Store Application with If/Else and Switch-Case in C
 
 ### Description
 
