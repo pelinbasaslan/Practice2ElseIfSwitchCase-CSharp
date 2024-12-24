@@ -108,6 +108,8 @@ class Program
             Console.WriteLine("Geçersiz bilgi girilmiştir.");
         }
 
+        //Burada switch case daha mantıklı kullanmak. Çok fazla koşul olduğu için ifden ziyade switch case daha anlaşılır bir yapıda.
+        //if-else yapısı her koşul sırasıyla değerlendirilir. Switch case'de her koşul baştan sağlanıyor mu diye aranmaz, spesifik olan kelime aranır.  
 
 
     }

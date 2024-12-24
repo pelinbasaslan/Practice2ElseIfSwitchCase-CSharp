@@ -1,0 +1,65 @@
+# Windows/Mac/Linux sistem dosyaları
+##############################
+# Windows sistem dosyaları
+Thumbs.db
+ehthumbs.db
+
+# VS Code ve JetBrains Rider ile ilgili dosyalar
+.vscode/
+.idea/
+
+# Build dosyaları
+##############################
+# .NET build dosyaları
+bin/
+obj/
+
+# VS dizini
+.vs/
+.vs2019/
+.vs2017/
+
+# ASP.NET derleme dosyaları
+wwwroot/
+
+# C# metadata dosyaları
+##############################
+# .NET Core ve .NET Framework derleme dosyaları
+project.lock.json
+project.fragment.lock.json
+
+# Paketler
+##############################
+# NuGet paketleri
+*.nupkg
+*.snupkg
+
+# Paketleri hariç tutmak için
+**/packages/
+
+# Uygulama verisi
+##############################
+# Kullanıcı verisi
+appsettings.json
+appsettings.Development.json
+
+# Log dosyaları
+*.log
+
+# Test ve CI/CD araçları
+##############################
+# Test raporları
+TestResults/
+*.testresults
+
+# JetBrains Rider (C# IDE) ile ilgili dosyalar
+.idea/
+
+# Yedek dosyalar
+##############################
+# C# ve Visual Studio tarafından kullanılan yedek dosyaları
+*.bak
+*.tmp
+*.swp
+
+# Lütfen proje dosyasına özel dosyalarınızı manuel olarak ekleyin (örneğin, config dosyaları vb.)
